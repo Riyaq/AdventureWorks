@@ -8,6 +8,7 @@ The analytics team was assigned the task of creating reports. You, being the new
 3. Report should also be able to show sales for the subcategories in the selected category
 
 > A map would locate the countries and their respective sales on a geographical map
+<br>
 > Selecting a bar from the bar chart does not filter data but only highlights the sales contribution of the selected country in all the product categories/subcategories in both the tree maps which can be challenging to interpret. A slicer would help to apply the filter on the entire report
 ------------------
 4. Total sales of each category sold over years through internet & resellers each
