@@ -19,7 +19,8 @@ The analytics team was assigned the task of creating reports. You, being the new
 
 7. Number of customers who bought products over Internet for selected year(s)
 
-8. Top 5 employees based on the sales made by them with an indicator exhibiting the achieved percentage of sales target for a selected employee. Indicate the performance of these employees according to below criteria. If the % of target sales met is:
+8. Top 5 employees based on the sales made by them with an indicator exhibiting the achieved percentage of sales target for a selected employee.
+9.  Indicate the performance of these employees according to below criteria. If the % of target sales met is:
 
 <= 25% : Poor
 
@@ -27,4 +28,3 @@ The analytics team was assigned the task of creating reports. You, being the new
 
 > 75% : Excellent
 
-9. All these reports should be accessible anywhere and be shareable with other stakeholders
