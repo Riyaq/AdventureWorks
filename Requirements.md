@@ -7,18 +7,18 @@ The analytics team was assigned the task of creating reports. You, being the new
 
 3. Report should also be able to show sales for the subcategories in the selected category
 
-4. A map would locate the countries and their respective sales on a geographical map
-5. Selecting a bar from the bar chart does not filter data but only highlights the sales contribution of the selected country in all the product categories/subcategories in both the tree maps which can be challenging to interpret. A slicer would help to apply the filter on the entire report
+> A map would locate the countries and their respective sales on a geographical map
+> Selecting a bar from the bar chart does not filter data but only highlights the sales contribution of the selected country in all the product categories/subcategories in both the tree maps which can be challenging to interpret. A slicer would help to apply the filter on the entire report
 ------------------
-6. Total sales of each category sold over years through internet & resellers each
+4. Total sales of each category sold over years through internet & resellers each
 
-7. Total gross profit and net profit through internet & resellers each
+5. Total gross profit and net profit through internet & resellers each
 
-8. Comparison of Internet and Reseller sale trends over the years. User should also be able to view the comparison of sales through two mediums over the quarters and the months
+6. Comparison of Internet and Reseller sale trends over the years. User should also be able to view the comparison of sales through two mediums over the quarters and the months
 
-9. Number of customers who bought products over Internet for selected year(s)
+7. Number of customers who bought products over Internet for selected year(s)
 
-10. Top 5 employees based on the sales made by them with an indicator exhibiting the achieved percentage of sales target for a selected employee. Indicate the performance of these employees according to below criteria. If the % of target sales met is:
+8. Top 5 employees based on the sales made by them with an indicator exhibiting the achieved percentage of sales target for a selected employee. Indicate the performance of these employees according to below criteria. If the % of target sales met is:
 
 <= 25% : Poor
 
