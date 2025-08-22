@@ -1,5 +1,5 @@
 Requirements
-The analytics team was assigned the task of creating reports. You, being the new member in the team are assisting the veteran analyst Mr. Oreo in building these dashboards using Power BI. The management wanted to view the following:
+
 
 1. The overall total sales of the company should be on display
 
@@ -18,7 +18,7 @@ The analytics team was assigned the task of creating reports. You, being the new
 6. Comparison of Internet and Reseller sale trends over the years. User should also be able to view the comparison of sales through two mediums over the quarters and the months
 
 7. Number of customers who bought products over Internet for selected year(s)
-
+----------------
 8. Top 5 employees based on the sales made by them with an indicator exhibiting the achieved percentage of sales target for a selected employee.  Indicate the performance of these employees according to below criteria. If the % of target sales met is:
 
 <= 25% : Poor
